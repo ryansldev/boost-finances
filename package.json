@@ -1,0 +1,8 @@
+{
+  "name": "boost-finances-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryansldev/boost-finances-api.git",
+  "author": "ryansldev <ryanlima1309@gmail.com>",
+  "license": "MIT"
+}
